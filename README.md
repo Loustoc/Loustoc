@@ -1,5 +1,5 @@
 Hey. My name's Lou. 
-- 🏫 Gobelins - Paris student...
+- 🏫 Gobelins - Paris student.
 - 👨‍💼 Associate creative Web Developer at AKQA.
 <br>
 <div style="display:flex;flex-wrap:wrap;flex-direction:row" dir="auto" class="test">
