@@ -4,7 +4,7 @@ Hey. My name's Lou.
 - 👨‍💼 Associate creative Web Developer at AKQA.
 <br>
 <div style="display:flex;flex-wrap:wrap;flex-direction:row" dir="auto" class="test">
-  <div style="width:50%;margin:20px">
+  <div style="width:10%;margin:10px">
     <picture>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&  logoColor=%2361DAFB" alt="badge"/>
     </picture>
@@ -32,8 +32,6 @@ Hey. My name's Lou.
         <picture>
     <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="badge"/>
      </picture>
-    <br>
-    <br>
         <picture>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="badge"/>
      </picture>
@@ -43,8 +41,6 @@ Hey. My name's Lou.
         <picture>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="badge"/>
      </picture>
-    <br>
-    <br>
         <picture>
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="badge"/>
      </picture>
